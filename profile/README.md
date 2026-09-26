@@ -45,6 +45,22 @@ on any of them to start your own project from it, no forking required.
 Each one is self-contained: its own README, tests, and a CI workflow that
 builds and tests on every push.
 
+## Research
+
+### Erebor — Programmable Analog–Digital Computing
+
+[Erebor](https://github.com/IncorvaiaM1/Erebor) is a research
+project of **The FatNarwhal Corporation**, investigating vertically
+integrated FPGA–FPAA architectures.
+
+The project is developing a shared simulation and modeling framework
+to study analog–digital computation, conversion costs, device
+requirements, and application-specific acceleration.
+
+**Status:** Early research and framework development.
+
+[Explore Erebor →](https://github.com/IncorvaiaM1/Erebor)
+
 ## License
 
 Everything in this org is MIT-licensed. Take it, modify it, ship it.
