@@ -67,5 +67,5 @@ Everything in this org is MIT-licensed. Take it, modify it, ship it.
 
 ## About FatNarwhal
 
-FatNarwhal is built and run by [Michael Incorvaia](https://github.com/michaelincorvaia).
+FatNarwhal is built and run by [Michael Incorvaia](https://github.com/IncorvaiaM1).
 Questions, ideas, or found a bug — open an issue on the relevant repo.
